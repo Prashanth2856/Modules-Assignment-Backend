@@ -1,0 +1,11 @@
+{
+  "name": "sample",
+  "version": "2.0.0",
+  "description": "empty",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "prashanth",
+  "license": "ISC"
+}
